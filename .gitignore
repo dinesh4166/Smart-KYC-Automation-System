@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.h5
+
+# Virtual Environments
+venv/
+env/
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+*.idea/
