@@ -4,3 +4,5 @@ opencv-python
 pillow
 pytesseract
 regex
+requests
+streamlit
